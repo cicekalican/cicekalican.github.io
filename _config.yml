@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ali Can Çiçek / ɑːˈli dʒan tʃiˈtʃek"
+title                    : "Ali Can Çiçek"
 title_separator          : "-"
 name                     : &name "Ali Can Çiçek"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ali Can Çiçek"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "ɑːˈli dʒan tʃiˈtʃek - Linguist"
+  location         : "Tübingen/Germany"
+  employer         : "Tübingen University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ali-can.cicek@uni-tuebingen.de" 
 
   # Academic websites
   academia         : # URL
