@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Experimental Syntax, University of Tübingen, 2023 - ongoing
+* M.A. in Linguistics, University of Tübingen, 2018-2021
+* B.A. in EFL, Akdeniz University, 2012-2017
 
 Work experience
 ======
