@@ -12,48 +12,58 @@ redirect_from:
 Education
 ======
 
-* 10.2023 - ongoing: Ph.D
+* Ph.D
+* 10.2023 - ongoing
   * University of Tübingen
   * Field: Experimental Syntax and Morphology
   * Supervisor: Prof. Dr. James Griffiths, Prof. Dr. Sam Featherston
 
-* 10.2018 - 09.2021: MA
+* MA
+* 10.2018 - 09.2021
   * University of Tübingen
   * Field: Linguistics, Discourse Analysis and Pragmatics
   * Supervisor: Prof. Dr. Sam Featherston, Dr. Janina Radó
 
-* 09.2012 - 06.2017: BA
+* BA
+* 09.2012 - 06.2017
   * Akdeniz University
   * Field: English Language Teaching
 
 Work Experience
 ======
 
-* 10.2023 - present: Research Associate
+* Research Associate
+* 10.2023 - present
   * University of Tübingen, Germany
   * Field: Experimental Syntax and Morphology
   * Supervisor: Prof. Dr. James Griffiths, Prof. Dr. Sam Featherston
 
-* 09.2022 - 08.2023: Teacher of English Language and Literature
+* Teacher of English Language and Literature
+* 09.2022 - 08.2023
   * Tarsus American College, Turkey
 
-* 06.2020 – 09.2020: Guest Lecturer
+* Guest Lecturer
+* 06.2020 – 09.2020
   * University of Kelaniya, Sri Lanka
   * Department: English Language Teaching
   * Duty: Teaching undergraduates discourse analysis
 
-* 07.2017 – 09.2018: Teacher of English Language
+* Teacher of English Language
+* 07.2017 – 09.2018
   * US Boston Language Schools, Mersin, Turkey
   * Additional Duty: Management of the Department of Material Development
 
 Scholarships/Grants
 ======
 
-* 08.2020 – 10.2021: Magenau-Wacker Merit-based Stipend
+* Magenau-Wacker Merit-based Stipend
+* 08.2020 – 10.2021
   * University of Tübingen
-* 2018: Fulbright recipient
+* Fulbright recipient
+* 2018
   * Admitted to the State University of New York, Buffalo (turned down)
-* 02.2016 – 06.2016: Mevlana Exchange Program
+* Mevlana Exchange Program
+* 02.2016 – 06.2016
   * University of Kelaniya in Sri Lanka
 * 10.2015 – 02.2016: Erasmus Exchange Program
   * Klaipeda University in Lithuania
