@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## About me
-
 
 I am a doctoral researcher in linguistics at the University of Tübingen, affiliated with the DFG-funded [CLEFS](https://fit.uni-tuebingen.de/Project/Details?id=10243) project. My work lies at the interface of theoretical and experimental linguistics, with a central emphasis on ellipsis and syntactic islands. More broadly, I am interested in phenomena directly or indirectly related to these domains, especially where structural constraints interact with interpretation.
 
