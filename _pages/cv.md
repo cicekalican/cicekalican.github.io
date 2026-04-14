@@ -18,20 +18,20 @@ Education
   &nbsp;&nbsp;Field: Experimental Syntax and Morphology  
   &nbsp;&nbsp;Supervisor: Prof. Dr. James Griffiths, Prof. Dr. Sam Featherston
   
-* Ph.D
+* Ph.D<br>
   &nbsp;&nbsp;10.2023 - ongoing
   * University of Tübingen
   * Field: Experimental Syntax and Morphology
   * Supervisor: Prof. Dr. James Griffiths, Prof. Dr. Sam Featherston
 
-* MA
-  10.2018 - 09.2021
+* MA<br>
+  &nbsp;&nbsp;10.2018 - 09.2021
   * University of Tübingen
   * Field: Linguistics, Discourse Analysis and Pragmatics
   * Supervisor: Prof. Dr. Sam Featherston, Dr. Janina Radó
 
-* BA
-* 09.2012 - 06.2017
+* BA<br>
+  &nbsp;&nbsp;09.2012 - 06.2017
   * Akdeniz University
   * Field: English Language Teaching
 
