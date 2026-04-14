@@ -12,8 +12,13 @@ redirect_from:
 Education
 ======
 
+* Ph.D 10.2023 - ongoing
+  &nbsp;&nbsp;University of Tübingen  
+  &nbsp;&nbsp;Field: Experimental Syntax and Morphology  
+  &nbsp;&nbsp;Supervisor: Prof. Dr. James Griffiths, Prof. Dr. Sam Featherston
+  
 * Ph.D
-  10.2023 - ongoing
+  &nbsp;&nbsp;10.2023 - ongoing
   * University of Tübingen
   * Field: Experimental Syntax and Morphology
   * Supervisor: Prof. Dr. James Griffiths, Prof. Dr. Sam Featherston
