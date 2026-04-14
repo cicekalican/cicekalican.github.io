@@ -53,6 +53,16 @@ Work Experience
   &nbsp;&nbsp;US Boston Language Schools, Mersin, Turkey<br>
   &nbsp;&nbsp;Additional Duty: Management of the Department of Material Development
 
+Summer Schools Attended
+======
+
+* Summer School on SMLP<br>
+  &nbsp;&nbsp;Universität Potsdam, Potsdam, August 2025
+* Summer School on DGFS<br>
+  &nbsp;&nbsp;Universität Göttingen, Göttingen, August 2024
+* Summer School on SMLP<br>
+  &nbsp;&nbsp;Universität Potsdam, Potsdam, August 2019
+
 Scholarships/Grants
 ======
 
@@ -65,16 +75,18 @@ Scholarships/Grants
 * Mevlana Exchange Program<br>
   &nbsp;&nbsp;02.2016 – 06.2016<br>
   &nbsp;&nbsp;University of Kelaniya in Sri Lanka
-* 10.2015 – 02.2016: Erasmus Exchange Program
-  * Klaipeda University in Lithuania
-* 09.2014 – 02.2015: Erasmus Exchange Program
-  * Pädagogische Hochschule OÖ in Austria
-* 05.2014: Full Funding for the “Youth are Here!” and the “Educate+” projects
-  * KA1 Mobility for Youth and Youth Workers
-  * KA2 Strategic Partnership Project in EuroMed Youth Centre, Antalya, Turkey
-* 09.2013: Full Funding for the “Experiential Inclusion” Project
-  * KA1 Mobility for Youth and Youth Workers, Berlin, Germany
-
+* Erasmus Exchange Program<br>
+  &nbsp;&nbsp;10.2015 – 02.2016<br>
+  &nbsp;&nbsp;Klaipeda University in Lithuania
+* Erasmus Exchange Program<br>
+  &nbsp;&nbsp;09.2014 – 02.2015<br>
+  &nbsp;&nbsp;Pädagogische Hochschule OÖ in Austria
+* Full Funding for the “Youth are Here!” and the “Educate+” projects<br>
+  &nbsp;&nbsp;05.2014<br>
+  &nbsp;&nbsp;KA1 Mobility for Youth and Youth Workers; KA2 Strategic Partnership Project in EuroMed Youth Centre, Antalya, Turkey
+* Full Funding for the “Experiential Inclusion” Project<br>
+  &nbsp;&nbsp;09.2013<br>
+  &nbsp;&nbsp;KA1 Mobility for Youth and Youth Workers, Berlin, Germany
 
 
 Publications
