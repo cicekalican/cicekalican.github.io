@@ -26,7 +26,7 @@ Education
   * Akdeniz University
   * Field: English Language Teaching
 
-Professional Experience
+Work Experience
 ======
 
 * 10.2023 - present: Research Associate
@@ -37,55 +37,35 @@ Professional Experience
 * 09.2022 - 08.2023: Teacher of English Language and Literature
   * Tarsus American College, Turkey
 
- * 06.2020 – 09.2020: Guest Lecturer
+* 06.2020 – 09.2020: Guest Lecturer
   * University of Kelaniya, Sri Lanka
   * Department: English Language Teaching
   * Duty: Teaching undergraduates discourse analysis
 
- * 07.2017 – 09.2018: Teacher of English Language
+* 07.2017 – 09.2018: Teacher of English Language
   * US Boston Language Schools, Mersin, Turkey
   * Additional Duty: Management of the Department of Material Development
- 
-Skills
+
 Scholarships/Grants
 ======
 
-* 08.2020 – 10.2021: Magenau-Wacker Merit-based Stipend during MA in Tübingen
+* 08.2020 – 10.2021: Magenau-Wacker Merit-based Stipend
+  * University of Tübingen
 * 2018: Fulbright recipient
   * Admitted to the State University of New York, Buffalo (turned down)
-* 02.2016 – 06.2016: Mevlana Exchange Program Scholarship to study at University of Kelaniya in Sri Lanka
-* 10.2015 – 02.2016: Erasmus Exchange Program Scholarship to study at Klaipeda University in Lithuania
-* 09.2014 – 02.2015: Erasmus Exchange Program Scholarship to study at Pädagogische Hochschule OÖ in Austria
-* 05.2014: Full Funding for the “Youth are Here!” Project under the terms of the ‘KA1 Mobility for Youth and Youth Workers’, and the “Educate+” KA2 Strategic Partnership Project in EuroMed Youth Centre, Antalya, Turkey
-* 09.2013: Full Funding for Erasmus K1 Project “Experiential Inclusion” in Berlin, Germany
+* 02.2016 – 06.2016: Mevlana Exchange Program
+  * University of Kelaniya in Sri Lanka
+* 10.2015 – 02.2016: Erasmus Exchange Program
+  * Klaipeda University in Lithuania
+* 09.2014 – 02.2015: Erasmus Exchange Program
+  * Pädagogische Hochschule OÖ in Austria
+* 05.2014: Full Funding for the “Youth are Here!” and the “Educate+” projects
+  * KA1 Mobility for Youth and Youth Workers
+  * KA2 Strategic Partnership Project in EuroMed Youth Centre, Antalya, Turkey
+* 09.2013: Full Funding for the “Experiential Inclusion” Project
+  * KA1 Mobility for Youth and Youth Workers, Berlin, Germany
 
-Publication
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
