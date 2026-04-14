@@ -17,60 +17,54 @@ Education
   &nbsp;&nbsp;University of Tübingen<br>
   &nbsp;&nbsp;Field: Experimental Syntax and Morphology<br> 
   &nbsp;&nbsp;Supervisor: Prof. Dr. James Griffiths, Prof. Dr. Sam Featherston
-  
-* Ph.D<br>
-  &nbsp;&nbsp;10.2023 - ongoing
-  * University of Tübingen
-  * Field: Experimental Syntax and Morphology
-  * Supervisor: Prof. Dr. James Griffiths, Prof. Dr. Sam Featherston
 
 * MA<br>
-  &nbsp;&nbsp;10.2018 - 09.2021
-  * University of Tübingen
-  * Field: Linguistics, Discourse Analysis and Pragmatics
-  * Supervisor: Prof. Dr. Sam Featherston, Dr. Janina Radó
+  &nbsp;&nbsp;10.2018 - 09.2021<br>
+  &nbsp;&nbsp;University of Tübingen<br>
+  &nbsp;&nbsp;Field: Linguistics, Discourse Analysis and Pragmatics<br>
+  &nbsp;&nbsp;Supervisor: Prof. Dr. Sam Featherston, Dr. Janina Radó
 
 * BA<br>
-  &nbsp;&nbsp;09.2012 - 06.2017
-  * Akdeniz University
-  * Field: English Language Teaching
+  &nbsp;&nbsp;09.2012 - 06.2017<br>
+  &nbsp;&nbsp;Akdeniz University<br>
+  &nbsp;&nbsp;Field: English Language Teaching
 
 Work Experience
 ======
 
-* Research Associate
-* 10.2023 - present
-  * University of Tübingen, Germany
-  * Field: Experimental Syntax and Morphology
-  * Supervisor: Prof. Dr. James Griffiths, Prof. Dr. Sam Featherston
+* Research Associate<br>
+  &nbsp;&nbsp;10.2023 - present<br>
+  &nbsp;&nbsp;University of Tübingen, Germany<br>
+  &nbsp;&nbsp;Field: Experimental Syntax and Morphology<br>
+  &nbsp;&nbsp;Supervisor: Prof. Dr. James Griffiths, Prof. Dr. Sam Featherston
 
-* Teacher of English Language and Literature
-* 09.2022 - 08.2023
-  * Tarsus American College, Turkey
+* Teacher of English Language and Literature<br>
+  &nbsp;&nbsp;09.2022 - 08.2023<br>
+  &nbsp;&nbsp;Tarsus American College, Turkey
 
-* Guest Lecturer
-* 06.2020 – 09.2020
-  * University of Kelaniya, Sri Lanka
-  * Department: English Language Teaching
-  * Duty: Teaching undergraduates discourse analysis
+* Guest Lecturer<br>
+  &nbsp;&nbsp;06.2020 – 09.2020<br>
+  &nbsp;&nbsp;University of Kelaniya, Sri Lanka<br>
+  &nbsp;&nbsp;Department: English Language Teaching<br>
+  &nbsp;&nbsp;Duty: Teaching undergraduates discourse analysis
 
-* Teacher of English Language
-* 07.2017 – 09.2018
-  * US Boston Language Schools, Mersin, Turkey
-  * Additional Duty: Management of the Department of Material Development
+* Teacher of English Language<br>
+  &nbsp;&nbsp;07.2017 – 09.2018<br>
+  &nbsp;&nbsp;US Boston Language Schools, Mersin, Turkey<br>
+  &nbsp;&nbsp;Additional Duty: Management of the Department of Material Development
 
 Scholarships/Grants
 ======
 
-* Magenau-Wacker Merit-based Stipend
-* 08.2020 – 10.2021
-  * University of Tübingen
-* Fulbright recipient
-* 2018
-  * Admitted to the State University of New York, Buffalo (turned down)
-* Mevlana Exchange Program
-* 02.2016 – 06.2016
-  * University of Kelaniya in Sri Lanka
+* Magenau-Wacker Merit-based Stipend<br>
+  &nbsp;&nbsp;08.2020 – 10.2021<br>
+  &nbsp;&nbsp;University of Tübingen
+* Fulbright recipient<br>
+  &nbsp;&nbsp;2018<br>
+  &nbsp;&nbsp;Admitted to the State University of New York, Buffalo (turned down)
+* Mevlana Exchange Program<br>
+  &nbsp;&nbsp;02.2016 – 06.2016<br>
+  &nbsp;&nbsp;University of Kelaniya in Sri Lanka
 * 10.2015 – 02.2016: Erasmus Exchange Program
   * Klaipeda University in Lithuania
 * 09.2014 – 02.2015: Erasmus Exchange Program
