@@ -11,28 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Experimental Syntax, University of Tübingen, 2023 - ongoing
-* M.A. in Linguistics, University of Tübingen, 2018-2021
-* B.A. in EFL, Akdeniz University, 2012-2017
+
+* 10.2023 - ongoing: Ph.D
+  * University of Tübingen
+  * Field: Experimental Syntax and Morphology
+  * Supervisor: Prof. Dr. James Griffiths, Prof. Dr. Sam Featherston
+
+* 10.2018 - 09.2021: MA
+  * University of Tübingen
+  * Field: Linguistics, Discourse Analysis and Pragmatics
+  * Supervisor: Prof. Dr. Sam Featherston, Dr. Janina Radó
+
+* 09.2012 - 06.2017: BA
+  * Akdeniz University
+  * Field: English Language Teaching
 
 Professional Experience
 ======
 
-* 10.2023 – present: Researcher at the University of Tübingen
-* 09.2022 – 08.2023: Teacher of English Language and Literature at Tarsus American College, Tarsus, Turkey
-* 06.2020 – 09.2020: Guest Lecturer at the University of Kelaniya, Sri Lanka
-* 07.2017 – 09.2018: Teacher of English at US Boston Language Schools, Mersin, Turkey
+* 10.2023 - present: Research Associate
+  * University of Tübingen, Germany
+  * Field: Experimental Syntax and Morphology
+  * Supervisor: Prof. Dr. James Griffiths, Prof. Dr. Sam Featherston
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 09.2022 - 08.2023: Teacher of English Language and Literature
+  * Tarsus American College, Turkey
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+ * 06.2020 – 09.2020: Guest Lecturer
+  * University of Kelaniya, Sri Lanka
+  * Department: English Language Teaching
+  * Duty: Teaching undergraduates discourse analysis
+
+ * 07.2017 – 09.2018: Teacher of English Language
+  * US Boston Language Schools, Mersin, Turkey
+  * Additional Duty: Management of the Department of Material Development
+ 
 Skills
 Scholarships/Grants
 ======
