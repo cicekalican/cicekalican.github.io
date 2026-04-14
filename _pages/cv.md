@@ -13,13 +13,13 @@ Education
 ======
 
 * Ph.D
-* 10.2023 - ongoing
+  10.2023 - ongoing
   * University of Tübingen
   * Field: Experimental Syntax and Morphology
   * Supervisor: Prof. Dr. James Griffiths, Prof. Dr. Sam Featherston
 
 * MA
-* 10.2018 - 09.2021
+  10.2018 - 09.2021
   * University of Tübingen
   * Field: Linguistics, Discourse Analysis and Pragmatics
   * Supervisor: Prof. Dr. Sam Featherston, Dr. Janina Radó
