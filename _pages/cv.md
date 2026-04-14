@@ -56,12 +56,12 @@ Work Experience
 Summer Schools Attended
 ======
 
-* Summer School on SMLP<br>
+* Summer School - SMLP<br>
   &nbsp;&nbsp;Universität Potsdam, Potsdam, August 2025
-* Summer School on DGFS<br>
+* Summer School - DGFS<br>
   &nbsp;&nbsp;Universität Göttingen, Göttingen, August 2024
-* Summer School on SMLP<br>
-  &nbsp;&nbsp;Universität Potsdam, Potsdam, August 2019
+* Summer School - SMLP<br>
+  &nbsp;&nbsp;Universität Potsdam, Potsdam, August 2024
 
 Scholarships/Grants
 ======
@@ -69,10 +69,10 @@ Scholarships/Grants
 * Magenau-Wacker Merit-based Stipend<br>
   &nbsp;&nbsp;08.2020 – 10.2021<br>
   &nbsp;&nbsp;University of Tübingen
-* Fulbright recipient<br>
+* Fulbright recipient (but turned down)<br>
   &nbsp;&nbsp;2018<br>
-  &nbsp;&nbsp;Admitted to the State University of New York, Buffalo (turned down)
-* Mevlana Exchange Program<br>
+  &nbsp;&nbsp;Admitted to the State University of New York, Buffalo
+  * Mevlana Exchange Program<br>
   &nbsp;&nbsp;02.2016 – 06.2016<br>
   &nbsp;&nbsp;University of Kelaniya in Sri Lanka
 * Erasmus Exchange Program<br>
