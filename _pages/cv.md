@@ -82,7 +82,8 @@ Scholarships/Grants
 * Fulbright recipient (but turned down)<br>
   &nbsp;&nbsp;2018<br>
   &nbsp;&nbsp;Admitted to the State University of New York, Buffalo
-  * Mevlana Exchange Program<br>
+  &nbsp;&nbsp;MS in Computational Linguistics
+* Mevlana Exchange Program<br>
   &nbsp;&nbsp;02.2016 – 06.2016<br>
   &nbsp;&nbsp;University of Kelaniya in Sri Lanka
 * Erasmus Exchange Program<br>
