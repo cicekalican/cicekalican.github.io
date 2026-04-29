@@ -9,9 +9,9 @@ redirect_from:
 
 I am a doctoral researcher in linguistics at the [University of Tübingen](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/englisches-seminar/sections/english-linguistics/lehrstuhl-prof-dr-james-griffiths/staff/ali-can-cicek/), affiliated with the DFG-funded [CLEFS](https://fit.uni-tuebingen.de/Project/Details?id=10243) project. My work lies at the interface of theoretical and experimental linguistics, with a focus on ellipsis, syntactic islands, and the interaction between structural constraints and interpretation.
 
-My research focuses primarily on English and Turkish, with German on the periphery. I combine formal analysis with experimental methods to investigate how grammatical structure shapes interpretation, processing, and acceptability judgments.
+My research focuses primarily on English Turkish, with German on the periphery. I combine formal analysis with experimental methods to investigate how grammatical structure shapes interpretation, processing, and acceptability judgments.
 
-Methodologically, I work extensively in R, developing reproducible workflows for data simulation, power analysis, statistical modeling, and visualization. I have also gained hands-on experience with Julia through the Summer School on Statistical Methods for Linguistics and Psychology (SMLP) in both [2024](https://vasishth.github.io/smlp2024/) and [2025](https://vasishth.github.io/smlp2025/), strengthening my background in frequentist statistics.
+Methodologically, I work extensively in R, developing reproducible workflows for simulation, analysis and visualization. I have also gained hands-on experience with Julia through (SMLP) in both [2024](https://vasishth.github.io/smlp2024/) and [2025](https://vasishth.github.io/smlp2025/), also strengthening my background in frequentist statistics.
 
 I also have a strong interest in discourse analysis and pragmatics, especially discourse structure, discourse markers, and meaning beyond the sentence level.
 
