@@ -87,7 +87,7 @@ publication_category:
     title: 'Books'
   articles:
     title: 'Journal Articles'    
-  conferences:
+  proceedings:
     title: 'Proceedings'
   translations:
     title: 'Translations'
