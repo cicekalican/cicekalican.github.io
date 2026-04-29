@@ -38,6 +38,12 @@ Work Experience
   &nbsp;&nbsp;Field: Experimental Syntax and Morphology<br>
   &nbsp;&nbsp;Supervisor: Prof. Dr. James Griffiths, Prof. Dr. Sam Featherston
 
+* Guest Lecturer<br>
+  &nbsp;&nbsp;10.2025 – 11.2025<br>
+  &nbsp;&nbsp;Mersin University, Turkey<br>
+  &nbsp;&nbsp;Department: Linguistics<br>
+  &nbsp;&nbsp;Duty: co-lecturing Introduction to Syntax
+  
 * Teacher of English Language and Literature<br>
   &nbsp;&nbsp;09.2022 - 08.2023<br>
   &nbsp;&nbsp;Tarsus American College, Turkey
@@ -46,7 +52,7 @@ Work Experience
   &nbsp;&nbsp;06.2020 – 09.2020<br>
   &nbsp;&nbsp;University of Kelaniya, Sri Lanka<br>
   &nbsp;&nbsp;Department: English Language Teaching<br>
-  &nbsp;&nbsp;Duty: Teaching undergraduates discourse analysis
+  &nbsp;&nbsp;Duty: Co-lecturing Dicourse Analysis
 
 * Teacher of English Language<br>
   &nbsp;&nbsp;07.2017 – 09.2018<br>
