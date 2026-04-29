@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Teacher of English"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "English language instruction"
+permalink: /teaching/2017-07-teacher-us-boston-language-schools
+venue: "US Boston Language Schools"
+date: 2017-07-01
+location: "Mersin, Turkey"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Date range: July 2017 – September 2018.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Additional duty: Management of the Department of Material Development.
