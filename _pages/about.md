@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral researcher in linguistics at the University of Tübingen, affiliated with the DFG-funded [CLEFS](https://fit.uni-tuebingen.de/Project/Details?id=10243) project. My work lies at the interface of theoretical and experimental linguistics, with a central emphasis on ellipsis and syntactic islands. More broadly, I am interested in phenomena directly or indirectly related to these domains, especially where structural constraints interact with interpretation.
+I am a doctoral researcher in linguistics at the [University of Tübingen](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/englisches-seminar/sections/english-linguistics/lehrstuhl-prof-dr-james-griffiths/staff/ali-can-cicek/), affiliated with the DFG-funded [CLEFS](https://fit.uni-tuebingen.de/Project/Details?id=10243) project. My work lies at the interface of theoretical and experimental linguistics, with a central emphasis on ellipsis and syntactic islands. More broadly, I am interested in phenomena directly or indirectly related to these domains, especially where structural constraints interact with interpretation.
 
 My research focuses primarily on English and Turkish, while also engaging closely with crosslinguistic work in these areas. I combine formal analysis with experimental methods to investigate how grammatical structure shapes interpretation and processing.
 
