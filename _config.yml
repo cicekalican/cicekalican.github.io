@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "ɑːˈli dʒan tʃiˈtʃek<br>a linguist"
   location         : "Tübingen/Germany"
-  employer         :  '<a href="https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/englisches-seminar/sections/english-linguistics/lehrstuhl-prof-dr-james-griffiths/staff/ali-can-cicek/" target="_blank">Tübingen University</a>'  uri              : # URL
+  employer         : "[Tübingen University](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/englisches-seminar/sections/english-linguistics/lehrstuhl-prof-dr-james-griffiths/staff/ali-can-cicek/)"employer         :  '<a href="https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/englisches-seminar/sections/english-linguistics/lehrstuhl-prof-dr-james-griffiths/staff/ali-can-cicek/" target="_blank">Tübingen University</a>'  uri              : # URL
   email            : "ali-can.cicek@uni-tuebingen.de" 
 
   # Academic websites
