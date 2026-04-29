@@ -1,7 +1,7 @@
 ---
 title: "Thou shalt not pass: Standard language practices that obstruct inclusive ethos in intercultural communication"
 collection: publications
-category: conferences
+category: proceedings
 permalink: /publication/2023-01-01-thou-shalt-not-pass
 date: 2023.01.01
 venue: "Education, Policies, Society"
