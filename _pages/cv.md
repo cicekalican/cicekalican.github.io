@@ -119,6 +119,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Academic Services
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer, Glossa: a journal of general linguistics (2025)
+* Reviewer, North East Linguistic Society (NELS) (2024)
