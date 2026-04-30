@@ -5,9 +5,16 @@ permalink: /conferences/
 author_profile: true
 ---
 
-2025
+2026
 ======
 
+* Diagnosing sluicing in Turkish: Evidence from multiple sluicing and prosody.<br>
+  &nbsp;&nbsp;June 18-19, 2026<br>
+  &nbsp;&nbsp;Üretici Dil Bilgisi ve Türkçe Çalıştayı, TDK, Ankara, Turkey
+
+2025
+======
+  
 * An Experimental Syntax Approach to leftward NP extraction in Turkish: Do islands generate any restrictions?<br>
   &nbsp;&nbsp;September 4–6, 2025<br>
   &nbsp;&nbsp;22nd International Conference on Turkish Linguistics (ICTL22), İzmir, Turkey
