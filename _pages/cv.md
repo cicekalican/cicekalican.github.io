@@ -107,7 +107,6 @@ Scholarships/Grants
   &nbsp;&nbsp;09.2013<br>
   &nbsp;&nbsp;KA1 Mobility for Youth and Youth Workers, Berlin, Germany
 
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
