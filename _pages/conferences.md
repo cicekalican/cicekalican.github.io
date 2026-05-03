@@ -5,6 +5,18 @@ permalink: /conferences/
 author_profile: true
 ---
 
+
+2026
+======
+
+* Diagnosing sluicing in Turkish: Evidence from multiple sluicing and prosody.<br>
+  &nbsp;&nbsp;June 30–July 2, 2025<br>
+  &nbsp;&nbsp;WAFL 19 (the 19th Workshop on Altaic Formal Linguistics), ZAS, Berlin, Germany
+
+* Diagnosing sluicing in Turkish: Evidence from multiple sluicing and prosody.<br>
+  &nbsp;&nbsp;June 18–19, 2025<br>
+  &nbsp;&nbsp;Üretici Dil Bilgisi ve Türkçe Çalıştayı, TDK, Ankara, Turkey, 18-19 June 2026.
+
 2025
 ======
 
