@@ -118,7 +118,7 @@ Teaching
 Professional Services
 ======
 * Reviewer<br>
-  &nbsp;&nbsp;North East Linguistic Society (NELS)<br>
+  &nbsp;&nbsp;North East Linguistic Society 57 (NELS 57)<br>
   &nbsp;&nbsp;2026
 
 * Reviewer<br>
@@ -126,5 +126,5 @@ Professional Services
   &nbsp;&nbsp;2025
 
 * Reviewer<br>
-  &nbsp;&nbsp;North East Linguistic Society (NELS)<br>
+  &nbsp;&nbsp;North East Linguistic Society 55 (NELS 55)<br>
   &nbsp;&nbsp;2024
