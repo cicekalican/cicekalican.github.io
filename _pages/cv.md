@@ -57,17 +57,7 @@ Work Experience
 * Teacher of English Language<br>
   &nbsp;&nbsp;07.2017 – 09.2018<br>
   &nbsp;&nbsp;US Boston Language Schools, Mersin, Turkey<br>
-  &nbsp;&nbsp;Additional Duty: Management of the Department of Material Development
-
-Reviewing
-======
-
-• Reviewer<br>
-  &nbsp;&nbsp;Glossa: a journal of general linguistics<br>
-  &nbsp;&nbsp;2025<br>
-• Reviewer<br>
-  &nbsp;&nbsp;North East Linguistic Society (NELS)<br>
-  &nbsp;&nbsp;2024
+  &nbsp;&nbsp;Additional Duty: Management of the Department of Material Development<br>
 
 Summer Schools Attended
 ======
@@ -103,8 +93,7 @@ Scholarships/Grants
   &nbsp;&nbsp;KA1 Mobility for Youth and Youth Workers; KA2 Strategic Partnership Project in EuroMed Youth Centre, Antalya, Turkey
 * Full Funding for the “Experiential Inclusion” Project<br>
   &nbsp;&nbsp;09.2013<br>
-  &nbsp;&nbsp;KA1 Mobility for Youth and Youth Workers, Berlin, Germany
-
+  &nbsp;&nbsp;KA1 Mobility for Youth and Youth Workers, Berlin, Germany<br>
 
 Publications
 ======
@@ -112,11 +101,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+{% comment %}
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+{% endcomment %}
   
 Teaching
 ======
@@ -124,6 +115,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Services
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer<br>
+  &nbsp;&nbsp;Glossa: a journal of general linguistics<br>
+  &nbsp;&nbsp;2025
+
+* Reviewer<br>
+  &nbsp;&nbsp;North East Linguistic Society (NELS)<br>
+  &nbsp;&nbsp;2024
