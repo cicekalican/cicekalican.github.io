@@ -118,6 +118,10 @@ Teaching
 Professional Services
 ======
 * Reviewer<br>
+  &nbsp;&nbsp;North East Linguistic Society (NELS)<br>
+  &nbsp;&nbsp;2026
+
+* Reviewer<br>
   &nbsp;&nbsp;Glossa: a journal of general linguistics<br>
   &nbsp;&nbsp;2025
 
