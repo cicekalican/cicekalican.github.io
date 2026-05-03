@@ -63,11 +63,13 @@ Summer Schools Attended
 ======
 
 * Summer School - SMLP<br>
-  &nbsp;&nbsp;Universität Potsdam, Potsdam, August 2025
+  &nbsp;&nbsp;Universität Potsdam, Potsdam, August 2025<br>
+  &nbsp;&nbsp;Advanced methods in frequentist statistics with Julia
 * Summer School - DGFS<br>
   &nbsp;&nbsp;Universität Göttingen, Göttingen, August 2024
 * Summer School - SMLP<br>
-  &nbsp;&nbsp;Universität Potsdam, Potsdam, August 2024
+  &nbsp;&nbsp;Universität Potsdam, Potsdam, August 2024<br>
+  &nbsp;&nbsp;Foundational methods in frequentist statistics
 
 Scholarships/Grants
 ======
