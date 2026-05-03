@@ -27,7 +27,7 @@ Education
 * BA<br>
   &nbsp;&nbsp;09.2012 - 06.2017<br>
   &nbsp;&nbsp;Akdeniz University<br>
-  &nbsp;&nbsp;Field: English Language Teaching
+  &nbsp;&nbsp;Field: English Language Teaching & Pedagogy
 
 Work Experience
 ======
