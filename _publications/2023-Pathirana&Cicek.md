@@ -3,8 +3,8 @@ title: "Thou shalt not pass: Standard language practices that obstruct inclusive
 collection: publications
 category: proceedings
 permalink: /publication/2023-01-01-thou-shalt-not-pass
-date: 2023.01.01
+date: 2024-01-01
 venue: "Education, Policies, Society"
 paperurl: "https://ibn.idsi.md/vizualizare_articol/208977"
-citation: 'Pathirana, H., &amp; Cicek, A. C. (2023). Thou shalt not pass: Standard language practices that obstruct inclusive ethos in intercultural communication. In <i>Education, Policies, Society</i>. CEP UPS „I. Creangă”. https://ibn.idsi.md/vizualizare_articol/208977'
+citation: 'Pathirana, H., &amp; Çiçek, A. C. (2024). Thou shalt not pass: Standard language practices that obstruct inclusive ethos in intercultural communication. In <i>Moldavian-Polish-Romanian International Scientific Congress Education, Policies, Society</i>. CEP UPSC. https://ibn.idsi.md/vizualizare_articol/208977'
 ---

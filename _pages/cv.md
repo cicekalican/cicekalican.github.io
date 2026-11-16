@@ -52,12 +52,23 @@ Work Experience
   &nbsp;&nbsp;06.2020 – 09.2020<br>
   &nbsp;&nbsp;University of Kelaniya, Sri Lanka<br>
   &nbsp;&nbsp;Department: English Language Teaching<br>
-  &nbsp;&nbsp;Duty: Co-lecturing Dicourse Analysis
+  &nbsp;&nbsp;Duty: Co-lecturing Discourse Analysis
 
 * Teacher of English Language<br>
   &nbsp;&nbsp;07.2017 – 09.2018<br>
   &nbsp;&nbsp;US Boston Language Schools, Mersin, Turkey<br>
   &nbsp;&nbsp;Additional Duty: Management of the Department of Material Development<br>
+
+Skills
+======
+
+* Programming and analysis<br>
+  &nbsp;&nbsp;R; Julia; introductory Python; Praat
+
+* Languages<br>
+  &nbsp;&nbsp;Turkish: Native<br>
+  &nbsp;&nbsp;English: C1 (IELTS)<br>
+  &nbsp;&nbsp;German: B1 (TELC)
 
 Summer Schools Attended
 ======

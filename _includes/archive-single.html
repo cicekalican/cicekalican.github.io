@@ -42,7 +42,7 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           {% if post.status == 'submitted' %}
-            <p>Submitted to <i>{{ post.venue }}</i></p>
+            <p>Submitted{% if post.venue %} to <i>{{ post.venue }}</i>{% endif %}</p>
           {% elsif post.status == 'in press' %}
             <p>In press at <i>{{ post.venue }}</i></p>
           {% else %}

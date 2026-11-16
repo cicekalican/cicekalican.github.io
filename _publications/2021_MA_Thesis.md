@@ -5,5 +5,5 @@ category: manuscripts
 permalink: /publication/2021-01-01-extending-rst-diotima
 date: 2021.01.01
 venue: "University of Tübingen"
-citation: "Cicek, A. C. (2021). <i>Extending rhetorical structure theory to model dialogues through the analysis of Diotima's speech in Plato's Symposium</i> (Master's dissertation, Department of English Language and Education, University of Tübingen)."
+citation: "Cicek, A. C. (2021). <i>Extending rhetorical structure theory to model dialogues through the analysis of Diotima's speech in Plato's Symposium</i> (Master's dissertation, Department of English Linguistics, University of Tübingen)."
 ---

@@ -10,23 +10,25 @@ author_profile: true
 ======
 
 * Diagnosing sluicing in Turkish: Evidence from multiple sluicing and prosody.<br>
-  &nbsp;&nbsp;June 30–July 2, 2025<br>
+  &nbsp;&nbsp;June 30–July 2, 2026<br>
   &nbsp;&nbsp;WAFL 19 (the 19th Workshop on Altaic Formal Linguistics), ZAS, Berlin, Germany
 
 * Diagnosing sluicing in Turkish: Evidence from multiple sluicing and prosody.<br>
-  &nbsp;&nbsp;June 18–19, 2025<br>
+  &nbsp;&nbsp;June 18–19, 2026<br>
   &nbsp;&nbsp;Üretici Dil Bilgisi ve Türkçe Çalıştayı, TDK, Ankara, Turkey, 18-19 June 2026.
 
 2025
 ======
 
-* An Experimental Syntax Approach to leftward NP extraction in Turkish: Do islands generate any restrictions?<br>
+* Griffiths, J., &amp; Çiçek, A. C. Prenominal Adjectival Dislocation and Left Branch Constraint under Ellipsis in Turkish.<br>
   &nbsp;&nbsp;September 4–6, 2025<br>
-  &nbsp;&nbsp;22nd International Conference on Turkish Linguistics (ICTL22), İzmir, Turkey
+  &nbsp;&nbsp;22nd International Conference on Turkish Linguistics (ICTL22), Dokuz Eylül University, İzmir, Turkey<br>
+  &nbsp;&nbsp;Published abstract: <a href="https://dilbilim.deu.edu.tr/wp-content/uploads/2025/08/22ICTL_ozet_kitapcigi.pdf#page=53">ICTL22 Book of Abstracts, p. 40</a>
 
 * Fragmentary Expressions and Adpositions in Turkish: Can Marked Sluices still Represent Pseudosluicing?<br>
   &nbsp;&nbsp;September 4–6, 2025<br>
-  &nbsp;&nbsp;22nd International Conference on Turkish Linguistics (ICTL22), İzmir, Turkey
+  &nbsp;&nbsp;22nd International Conference on Turkish Linguistics (ICTL22), Dokuz Eylül University, İzmir, Turkey<br>
+  &nbsp;&nbsp;Published abstract: <a href="https://dilbilim.deu.edu.tr/wp-content/uploads/2025/08/22ICTL_ozet_kitapcigi.pdf#page=17">ICTL22 Book of Abstracts, p. 4</a>
 
 * The Role of the Turkish Modal Particle YA in Discourse Relations: An Experimental Study<br>
   &nbsp;&nbsp;June 4–6, 2025<br>
@@ -60,7 +62,11 @@ author_profile: true
   &nbsp;&nbsp;March 1–2, 2025 (online)<br>
   &nbsp;&nbsp;TU+ 10, University of Southern California, Los Angeles, USA
 
-* The Role of the Turkish Modal Particle YA in Discourse Relations: An Experimental Study (poster presentation)<br>
+* Fragmentary Expressions and Adpositions in Turkish: Can Marked Sluices Still Represent Pseudosluicing?<br>
+  &nbsp;&nbsp;March 1–2, 2025 (online)<br>
+  &nbsp;&nbsp;TU+ 10, University of Southern California, Los Angeles, USA
+
+* Çiçek, A. C., &amp; Bakırcı, D. The Role of the Turkish Modal Particle YA in Discourse Relations: An Experimental Study (poster presentation)<br>
   &nbsp;&nbsp;March 1–2, 2025 (online)<br>
   &nbsp;&nbsp;TU+ 10, University of Southern California, Los Angeles, USA
 
