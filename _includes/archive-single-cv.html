@@ -41,6 +41,9 @@
     {% if post.collection == 'teaching' %}
       <p class="archive__item-excerpt">
         {{ post.venue }}{% if post.location %}<br />{{ post.location }}{% endif %}
+        {% if post.type %}
+          {% unless post.content contains post.type %}<br />{{ post.type }}{% endunless %}
+        {% endif %}
       </p>
       <div class="archive__item-excerpt" itemprop="description">
         {{ post.content | markdownify }}
